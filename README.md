@@ -16,5 +16,3 @@
 </div>
 
 <br>
-Cursando desenvolvimento de sistemas no Senai 
-
